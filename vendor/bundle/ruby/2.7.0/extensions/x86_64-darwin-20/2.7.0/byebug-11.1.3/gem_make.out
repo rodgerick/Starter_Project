@@ -1,0 +1,19 @@
+current directory: /Users/rodgerickheninger/Desktop/dpl_summer_2021/starter_project_2021/vendor/bundle/ruby/2.7.0/gems/byebug-11.1.3/ext/byebug
+/Users/rodgerickheninger/.rbenv/versions/2.7.3/bin/ruby -I /Users/rodgerickheninger/.rbenv/versions/2.7.3/lib/ruby/2.7.0 -r ./siteconf20210603-60932-4fk2p2.rb extconf.rb
+creating Makefile
+
+current directory: /Users/rodgerickheninger/Desktop/dpl_summer_2021/starter_project_2021/vendor/bundle/ruby/2.7.0/gems/byebug-11.1.3/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/rodgerickheninger/Desktop/dpl_summer_2021/starter_project_2021/vendor/bundle/ruby/2.7.0/gems/byebug-11.1.3/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/rodgerickheninger/Desktop/dpl_summer_2021/starter_project_2021/vendor/bundle/ruby/2.7.0/gems/byebug-11.1.3/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20210603-60932-xha4m/byebug
