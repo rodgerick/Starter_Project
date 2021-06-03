@@ -34,13 +34,3 @@
   width: 100%;
   opacity: 0.4;
 }
-
-:root {
-  --red: #ff0000;
-}
-
-body {
-  font-family: lato, sans-serif;
-  margin: 0;
-  background-color: white;
-}
