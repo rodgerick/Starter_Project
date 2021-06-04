@@ -1,3 +1,5 @@
 Rails.application.routes.draw do
-  root 'homepage#index'
+   # resources :restaurants
+   root 'homepage#index'
+
 end
